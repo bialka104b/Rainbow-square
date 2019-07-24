@@ -1,1 +1,1 @@
-# teczowy_kwadrat
+# Rainbow-square
